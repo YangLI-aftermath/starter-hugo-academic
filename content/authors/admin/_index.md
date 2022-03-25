@@ -56,7 +56,7 @@ highlight_name: true
 ---
 
 He is a M.Phill. candidate in The Hong Kong University of Science and Technology(HKUST). His research interests include Machine Learning, Computer Vision, and Robotics.
-. He join Deep Vision Lab in HKUST, which develops novel Computer Vision topics.
+. He is a member of Deep Vision Lab in HKUST, which develops novel Computer Vision topics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
